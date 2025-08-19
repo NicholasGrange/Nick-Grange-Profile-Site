@@ -12,14 +12,4 @@ Recognized as a thought leader, I have authored articles in leading security pub
 🔹 Registrations: PSIRA (Grade B), Certified Electric Fence Installer, Authorized Fire Detection Designer (SAQCC)
 
 With a strong foundation in both technical mastery and strategic business development, I am committed to building long-term partnerships and delivering innovative, scalable security solutions — locally in Africa and internationally.
-
-
-I am a Security Technology Expert with 28+ years of experience consulting, designing, and delivering large-scale integrated security systems across mining, renewable energy, national infrastructure, aviation, and government sectors.
-
-I specialize in PIDS, AI-based surveillance, access control, and fire detection systems, creating scalable, future-ready solutions tailored to complex risk profiles. My career includes leading multiple businesses and managing turnkey security projects across Africa and abroad.
-
-Currently, I serve as Business Development Manager at Stallion Security, focusing on high-value projects in mining and renewable energy. My project portfolio includes OR Tambo & Cape Town International Airports, Eskom power stations, Newmont Gold (Peru, Ghana & Suriname), FQML Zambia, Gautrain, and the National Assembly of Lesotho.
-
-🔹 Core Strengths: Integrated Security Design | Risk & Threat Assessments (CPTED) | AI-driven Security | Large-scale Project Management | Compliance & Auditing | Client Partnerships
-
-I am passionate about advancing integrated security technologies and building long-term local and international collaborations that deliver both risk mitigation and operational value.
+assionate about advancing integrated security technologies and building long-term local and international collaborations that deliver both risk mitigation and operational value.
